@@ -1,0 +1,24 @@
+.container{
+    display:flex;
+    justify-content: space-between;
+    width:90vw;
+    margin:2rem 3rem;
+    background-color: aqua;
+}
+.container-left{
+    display:block;
+    text-align: left;
+    text-transform: uppercase;
+}
+.container-left h1{
+    font-weight: 800;
+    size:108px;
+    line-height: 102px;
+}
+.container-right img{
+    display:block;
+    align-items: center;
+    margin-top:2rem;
+    margin-bottom: 2rem;
+    width:90%;
+}
